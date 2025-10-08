@@ -28,7 +28,6 @@ I currently work at **ClearMotion**, where I focus on **vehicle dynamics**, **si
 ---
 
 ## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnyjamison&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnyjamison&layout=compact)
 
 ---
