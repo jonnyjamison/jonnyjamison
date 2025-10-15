@@ -16,8 +16,8 @@ I currently work at **ClearMotion**, where I focus on **vehicle dynamics**, **si
 ---
 
 ## 🧰 Tech Stack
-![MATLAB](https://img.shields.io/badge/-MATLAB-orange)
-![Simulink](https://img.shields.io/badge/-Simulink-0076A8?logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjI0IiB3aWR0aD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmY3NDAwIiBkPSJNMjAsN2MtMS40LTIuMy0yLjUtMi44LTQuMi0yLjQtMS43LjQtMi45IDEuOS00LjYgNC4zTDcgMTUuOGMtMS41IDIuMi0yLjUgMy42LTIuNCA1LjMgMCAxLjguOCAzLjEgMi42IDMuM3MyLjktMS43IDQuNy00LjUgMy4yLTQuMiA1LjUtNi4zYzEuNy0xLjggMi43LTMuMiAyLjYtNC45LS4xLTEuMy0uNy0yLjQtMS40LTMuNnoiLz48L3N2Zz4=&logoColor=white&labelColor=orange)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI0IiB3aWR0aD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB4PSI1IiB5PSI1IiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHJ4PSIyIiByeT0iMiIgZmlsbD0iI0ZGNzQwMCIvPjxwYXRoIGQ9Ik03IDExaDNdTTExIDEzaDNtLTUgMGgxMSIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjEiLz48L3N2Zz4=&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
