@@ -1,17 +1,34 @@
 # 👋 Hi, I'm Jonny!
 
-⚙️ **Mechanical Engineer** | 🚗 **Vehicle Modelling** | 🧠 **Machine Learning for Engineering Systems**
+🧠 **Software Engineer (Modelling & Simulation)**  
+⚙️ Engineering Systems · 📦 Digital Twins · 🧠 Data-Driven Models
 
-I'm a Mechanical Engineer with a passion for combining **physics-based modelling** and **data-driven approaches** to design and optimize dynamic systems.  
-I currently work at **ClearMotion**, where I focus on **vehicle dynamics**, **simulation**, and **toolset** using **Python**, **MATLAB**, **Simulink** and **machine learning**.
+---
+
+I’m a **software engineer** with a background in **mechanical engineering**, specialising in building **models and simulations of real-world systems**.
+
+My work sits at the intersection of **physics-based modelling**, **data-driven methods**, and **production-grade software engineering**, with a focus on creating **scalable, high-performance systems** that enable better decision-making.
+
+I currently work as a Software Engineer at a London-based tech startup, building **scalable modelling and simulation systems** that enable large-scale digital representations of real-world processes, leveraging **advanced programming** and **modern software architectures**.
 
 ---
 
 ## 🚀 What I Do
-- 🧩 **Vehicle System Modelling** – Building dynamic and control models of suspension and chassis subsystems  
-- 🧠 **Virtual Sensors** – Developing Neural Network-based estimators for system states and signals  
-- 📊 **Data Analysis & Visualization** – Turning raw test data into actionable insights  
-- 🧱 **Software Engineering** – Writing clean, modular, object-oriented code for modelling and testing  
+
+- 🧩 **Model Real-World Systems**  
+  Designing simulations that capture complex engineering and operational behaviour  
+
+- ⚡ **Build High-Performance Simulations**  
+  Scaling and optimising models for speed, efficiency, and real-world use  
+
+- 🔗 **Develop Data & Simulation Pipelines**  
+  Integrating diverse data sources into modelling and simulation workflows  
+
+- 🧠 **Combine Physics + Machine Learning**  
+  Blending first-principles models with ML (e.g. virtual sensors, estimators)  
+
+- 🧱 **Engineer Production-Ready Modelling Software**  
+  Writing clean, maintainable code using modern design patterns and best practices  
 
 ---
 
@@ -23,12 +40,6 @@ I currently work at **ClearMotion**, where I focus on **vehicle dynamics**, **si
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjI0IiB3aWR0aD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmY3NDAwIiBkPSJNMjAsN2MtMS40LTIuMy0yLjUtMi44LTQuMi0yLjQtMS43LjQtMi45IDEuOS00LjYgNC4zTDcgMTUuOGMtMS41IDIuMi0yLjUgMy42LTIuNCA1LjMgMCAxLjguOCAzLjEgMi42IDMuM3MyLjktMS43IDQuNy00LjUgMy4yLTQuMiA1LjUtNi4zYzEuNy0xLjggMi43LTMuMiAyLjYtNC45LS4xLTEuMy0uNy0yLjQtMS40LTMuNnoiLz48L3N2Zz4=&logoColor=white&labelColor=orange)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI0IiB3aWR0aD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB4PSI1IiB5PSI1IiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHJ4PSIyIiByeT0iMiIgZmlsbD0iI0ZGNzQwMCIvPjxwYXRoIGQ9Ik03IDExaDNdTTExIDEzaDNtLTUgMGgxMSIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjEiLz48L3N2Zz4=&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnyjamison&layout=compact)
 
 ---
 
