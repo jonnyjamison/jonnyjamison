@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Jonny
 
 **Software Engineer | Modelling & Simulation**
+
 Digital Twins · Engineering Systems · Data-Driven Models
 
 ---
@@ -11,7 +12,7 @@ I build models, simulations, and data-driven tools for real-world systems, inclu
 
 I currently work as a Software Engineer, Modelling at a London-based tech startup, developing Python-based modelling tools and digital twin simulations for complex operational systems.
 
-Previously, I worked in automotive simulation and vehicle development at ClearMotion, Rivian, IPG Automotive, and Ford UK.
+Previously, I worked in automotive simulation and physical modelling at ClearMotion, Rivian, IPG Automotive, and Ford UK.
 
 ---
 
